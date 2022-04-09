@@ -24,5 +24,17 @@ __Info Commands__
 > **```Get's info about the Server```**
 
 `#8- /premium-perks`-
-> **```Display's all Perks and Benifits of Galactic Premium**```
+> **```Display's all Perks and Benifits of Galactic Premium```**
+
+`#9- /membercount`-
+> **```Display's the membercount of the server```**
+
+`#10- /profile`-
+> **```A Special Command With Custom Bot Badges```**
+
+`#11- /uptime`-
+> **```Display's Uptime of Galactic```**
+
+`#12- /help`-
+> **```Get Help Regarding Galactic```**
 _________________________________________________________________________________________________________________________________________________________________________
