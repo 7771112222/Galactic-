@@ -1,4 +1,4 @@
 # Galactic-Commands
 
->>> /ping
+`/ping`
 Get's the Bot's Ping
