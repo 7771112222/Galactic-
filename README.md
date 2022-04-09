@@ -1,5 +1,7 @@
 # Galactic-Commands
 
+__Info Commands__
+
 `#1 /ping`-
 > **```Get's Ping Of Galactic```**
 
@@ -15,6 +17,9 @@
 `#5 /avatar`-
 > **```Get's Avatar of a User```**
 
-`>#6`- /userinfo
-> **```Get's info about a User
+`>#6- /userinfo`
+> **```Get's info about a User```**
+
+`>#7- /serverinfo`
+> **```Get's info about the Server```**
 _________________________________________________________________________________________________________________________________________________________________________
