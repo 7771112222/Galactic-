@@ -20,6 +20,9 @@ __Info Commands__
 `>#6- /userinfo`
 > **```Get's info about a User```**
 
-`>#7- /serverinfo`
+`#7- /serverinfo`
 > **```Get's info about the Server```**
+
+`#8- /premium-perks`-
+> **```Display's all Perks and Benifits of Galactic Premium**```
 _________________________________________________________________________________________________________________________________________________________________________
