@@ -8,4 +8,13 @@
 
 `#3 /stats`-
 > **```Get's Basic Stat's About Galactic```**
+
+`#4 /bump`-
+> **```Bump's the Server after every 2hours```**
+
+`#5 /avatar`-
+> **```Get's Avatar of a User```**
+
+`>#6`- /userinfo
+> **```Get's info about a User
 _________________________________________________________________________________________________________________________________________________________________________
