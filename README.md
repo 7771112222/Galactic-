@@ -1,4 +1,4 @@
 # Galactic-Commands
 
-`/ping`
-Get's the Bot's Ping
+`#1 /ping`
+```Get's The Bot's Ping```
